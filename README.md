@@ -1,4 +1,4 @@
-# Book Search Engine Starter Code
+# Book Search Engine
 
 ## Description
 This repo houses a Book Search Engine that was built with a RESTful API and refactored to be a GraphQL API.
